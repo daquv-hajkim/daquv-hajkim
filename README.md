@@ -9,22 +9,11 @@
 
 ### 🧠 What I’m Building Now
 
-After **ranking #1 across all Spider 2.0 tracks** 
-(dbt – June 2025, lite – January 2026, snow – February 2026),
+My work on the **Spider 2.0** benchmarks (ranking #1 in dbt, lite, and snow) proved that AI can master data **'retrieval'** at the highest level. However, true **'insight'** isn't born from retrieval alone; it emerges when data is viewed through a specific perspective built on deep contextual understanding.
 
-I shifted focus from benchmark research to building a fully autonomous AI-native company.
+I am now moving beyond the semantic layer to develop an **'Analytic Layer'** capable of capturing the full context of data analysis.
 
-At DAQUV, we are designing a system where:
-
-- AI agents build and evolve semantic models autonomously  
-- AI agents generate, execute, and validate production code  
-- AI agents write product documentation and explain outputs  
-- Human intervention is minimized to high-level strategic decisions  
-
-Our goal is simple:
-
-To build a mission-critical data company that operates like a self-driving system —  
-where machines design, reason, and execute end-to-end.
+Our goal is to build a mission-critical data system that operates like a **self-driving engine** — where machines autonomously design, reason, and manage the entire analytical lifecycle.
 
 ---
 
@@ -43,8 +32,7 @@ where machines design, reason, and execute end-to-end.
 - 🥇 **Ranked #1 on Spider 2.0-snow (February 2026)** — the hardest NL2SQL benchmark
 - 🥇 **Ranked #1 on Spider 2.0-lite (January 2026)** — closest benchmark to real NL2SQL agent behavior
 - 🥇 **Ranked #1 on Spider 2.0-dbt (June 2025)** — high-complexity multi-hop database reasoning  
-- 🏆 **2023 Best Analyst (Software Category)** — *Maeil Business Newspaper, 2024.01*  
-  <sub><i>Youngest recipient in history.</i></sub>
+- 🏆 **2023 Best Analyst (Software Category)** — *Maeil Business Newspaper, 2024.01* <sub><i>Youngest recipient in history.</i></sub>
 
 ---
 
